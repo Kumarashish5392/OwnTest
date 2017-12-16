@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ola Play</string>
+    <string name="static_image">STATIC</string>
+    <string name="artists">Artists : </string>
+</resources>
